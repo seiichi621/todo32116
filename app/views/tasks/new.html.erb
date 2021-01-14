@@ -1,7 +1,7 @@
 <h1>CREATE TASK</h1>
 <%= form_with(model: @task, local: true) do |f| %>
   <div><%= f.label :title %></div>
-  <div><%= f.text_field :title %></div>
-  <div><%= f.submit %></div>
+  <div><%= f.text_field :title,class: "form-control" %></div>
+  <div><%= f.submit "CREATE", class: "btn btn-outline-primary" %></div>
 <% end %>
-<%= link_to '戻る', root_path %>
+<%= link_to 'back', root_path %>

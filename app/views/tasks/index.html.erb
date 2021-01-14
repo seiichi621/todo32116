@@ -1,21 +1,23 @@
-<h1>TO DO APP</h1>
+
 <table>
   <thead>
     <tr>
-      <th>TO DO LIST</th>
+      <th>【TASK LIST】</th>
       <th></th>
     </tr>
   </thead>
   <tbody>
     <% @tasks.each do |task| %>
       <tr>
-        <td><%= task.title %></td>
-        <td><%= link_to content_tag(:i, '', class: 'fas fa-trash'), task, method: :delete, data: { confirm: "#{task.title}を削除して大丈夫ですか？" } %></td>
-
+        <td><input type="checkbox" name=“sample” value="1"><%= task.title %></td>
          <td><%= link_to(content_tag(:i, '', class: 'fas fa-pen'), edit_task_path(task)) %></td>
+
+         <td><%= link_to content_tag(:i, '', class: 'fas fa-trash'), task, method: :delete, data: { confirm: "#{task.title}を削除して大丈夫ですか？" } %></td>
+
+         <td><%= time_ago_in_words(task.created_at)%> 前 </td>
       </tr>
     <% end %>
   </tbody>
 </table>
-<%= link_to '追加', new_task_path %>
+<%= link_to 'CREATE TASK', new_task_path, class: "btn btn-primary",id: "create-new-task" %>
 
