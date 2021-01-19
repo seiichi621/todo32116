@@ -1,24 +1,36 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+・アプリ名	
+-TASKERS
 
-Things you may want to cover:
+・概要
+-毎日のタスクを管理できる
 
-* Ruby version
+・本番環境
+-https://todo32116.herokuapp.com/
 
-* System dependencies
+・制作背景(意図)						
+⇒1日の中でやることを明確にしておくため
 
-* Configuration
+・DEMO		
+⇒	https://gyazo.com/ce7ba50955d3107f7808926df6c3f1be
+⇒ https://gyazo.com/aa26a9197eed387f689d68061e31c42d
 
-* Database creation
+・工夫したポイント	
+-復習もかね、あえてruby on railsの基礎でできるアプリを作った
+-cssはboostrapを利用した
+-「削除」ボタンと「編集」ボタンをfont awesomeにして見た目を整えた
+-タスクが完了した際チェックできるようにchekboxをつけた
 
-* Database initialization
 
-* How to run the test suite
+・使用技術(開発環境)		
+-テキストエディタ
+-ruby2.6.5
+-mysql
 
-* Services (job queues, cache servers, search engines, etc.)
+・課題や今後実装したい機能		
+-タスクを作った時の時間をつける
+-javascriptを使ってタスク達成度の度合いをパラメーターで示したい
 
-* Deployment instructions
-
-* ...
+・DB設計						
+-mysql
