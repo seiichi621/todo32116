@@ -13,7 +13,7 @@
 ⇒1日の中でやることを明確にしておくため
 
 ・DEMO		
-⇒	https://gyazo.com/ce7ba50955d3107f7808926df6c3f1be
+⇒	https://i.gyazo.com/c28002159cd5d45333988107aee57b38.mp4
 ⇒ https://gyazo.com/aa26a9197eed387f689d68061e31c42d
 
 ・工夫したポイント	
