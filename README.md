@@ -15,6 +15,7 @@
 ・DEMO		
 ⇒	<img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/aa26a9197eed387f689d68061e31c42d.gif" alt="" class="wp-image-1099">
 ⇒ <img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/ce7ba50955d3107f7808926df6c3f1be.gif" alt="" class="wp-image-1099">
+ <img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/7036fac9946db693fed81885983fe6d5.gif" alt="" class="wp-image-1099">
 
 
 ・工夫したポイント	
