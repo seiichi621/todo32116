@@ -14,7 +14,7 @@
 
 ・DEMO		
 ⇒	<img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/aa26a9197eed387f689d68061e31c42d.gif" alt="" class="wp-image-1099">
-⇒ https://gyazo.com/aa26a9197eed387f689d68061e31c42d
+⇒ https://gyazo.com/ce7ba50955d3107f7808926df6c3f1be
 
 ・工夫したポイント	
 -復習もかね、あえてruby on railsの基礎でできるアプリを作った
