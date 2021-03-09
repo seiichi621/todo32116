@@ -13,7 +13,7 @@
 ⇒1日の中でやることを明確にしておくため
 
 ・DEMO		
-⇒	<img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/b4f097d3d75c2f841ba545e273c929b5.gif" alt="" class="wp-image-1099">
+⇒	<img loading="lazy" width="1000" height="500" src="https://i.gyazo.com/aa26a9197eed387f689d68061e31c42d.gif" alt="" class="wp-image-1099">
 ⇒ https://gyazo.com/aa26a9197eed387f689d68061e31c42d
 
 ・工夫したポイント	
